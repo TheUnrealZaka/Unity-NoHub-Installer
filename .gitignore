@@ -1,0 +1,6 @@
+# Local test output / downloads
+*.part
+*.exe
+*.msi
+UnityInstallers/
+Unity/
